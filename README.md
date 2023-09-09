@@ -1,4 +1,4 @@
-# black.onnx.applications
+# black.onyx.applications
 
 **Privacy Policy**
 
